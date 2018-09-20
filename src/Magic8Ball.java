@@ -19,44 +19,44 @@ public class Magic8Ball {
         if (testing<11) {
             System.out.println("you're the man ");
         }
-        if (testing<21) {
+        else if  (testing<21) {
 
             System.out.println("looking good");
         }
 
-        if (testing<31) {
+        else if (testing<31) {
 
             System.out.println("not happening ");
 
         }
-        if (testing<41) {
+        else if (testing<41) {
 
             System.out.println("yes sir");
         }
-        if (testing<51) {
+        else if (testing<51) {
 
             System.out.println("Luck is on your side");
 
         }
 
-        if (testing<61) {
+        else if (testing<61) {
             System.out.println("you hit the jackpot");
         }
 
 
-        if (testing<71) {
+        else if (testing<71) {
             System.out.println("doesn't look good ");
         }
 
-        if (testing<81) {
+        else if (testing<81) {
             System.out.println("never ");
         }
 
-        if (testing<91) {
+        else if (testing<91) {
             System.out.println("error");
         }
 
-        if (testing<101) {
+        else if (testing<101) {
             System.out.println("the future doesn't look bright for you");
         }
 
